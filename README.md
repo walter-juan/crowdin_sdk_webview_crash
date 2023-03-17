@@ -1,6 +1,6 @@
 Android demo project to show the Crowdin SDK crash with WebView component and HTML select.
 
-Issue: https://github.com/crowdin/mobile-sdk-android/issues/148
+Issue: https://github.com/crowdin/mobile-sdk-android/issues/194
 
 # How to reproduce
 
